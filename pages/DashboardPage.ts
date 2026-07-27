@@ -22,4 +22,8 @@ export class DashboardPage extends Base
     {
         await this.page.locator(this.Adminlink).click()
     }
+    async f1()
+    {
+        console.log("hello")
+    }
 }
