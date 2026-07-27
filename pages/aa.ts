@@ -6,5 +6,5 @@ function f2()
 }
 function f3()
 {
-    
+    console.log("hello")
 }
